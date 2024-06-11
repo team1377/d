@@ -7,8 +7,8 @@ public repo. 한글.
 | --- | --- | --- | --- |
 
 ### 링크
-| ChatGPT | openai | [이동]((https://chatgpt.com/) |
+| ChatGPT | openai | [이동](https://chatgpt.com/) |
 
-| Gemini | google | [이동]((https://gemini.google.com/app) |
+| Gemini | google | [이동](https://gemini.google.com/app) |
 
 | Claud | - | [이동](https://claude.ai/chats) |
