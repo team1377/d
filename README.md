@@ -22,3 +22,16 @@ public repo. 한글.
 ### 이미지 크기 조정
 
 <img src = "(https://ibb.co/DQVcgFs)" width = "250" height = "200" >
+
+
+### 링크 걸기, 내 레포에 PDF 연결
+[2주차일정](./240610_240614_2주차.pdf)
+
+### 링크 걸기, 내 레포에 py 파일 연결
+[py](./test1.py)
+
+### 코드블록
+'''
+print(10)
+print("Hello")
+'''
