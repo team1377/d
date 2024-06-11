@@ -1,2 +1,2 @@
 # d
-public lepo. 한글.
+public repo. 한글.
