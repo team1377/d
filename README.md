@@ -17,11 +17,11 @@ public repo. 한글.
 
 ### 이미지 삽입
 
-![캐나다 요호](https://postimg.cc/8fJCWWCH)
+![캐나다 요호]([image.jpg](https://postimg.cc/8fJCWWCH)
 
 ### 이미지 크기 조정
 
-<img src = "(https://postimg.cc/8fJCWWCH)" width = "250" height = "200" >
+<img src = "[image.jpg](https://postimg.cc/8fJCWWCH)" width = "250" height = "200" >
 
 ### 링크 걸기, 내 레포에 PDF 연결
 
