@@ -33,7 +33,7 @@ public repo. 한글.
 
 ### 코드블록
 
-~~~python
+```python
 print(10)
 print("Hello")
-~~~
+```
